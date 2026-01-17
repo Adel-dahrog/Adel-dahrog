@@ -1,34 +1,62 @@
-# 👋 Hi, I'm Adel Dahroug
 
-🚀 AI & Data Science student  
-💻 Passionate about programming, problem solving, and building smart solutions  
-📊 Interested in Data Analysis, Machine Learning, and Python Automation  
+<h1 align="center">Hi 👋, I'm Adel Dahroug</h1>
+<h3 align="center">AI & Data Science Student | Future AI Engineer</h3>
 
----
-
-## 🧠 What I'm working on
-- Learning Python deeply 🐍  
-- Exploring AI & Data Science step by step  
-- Building small projects to sharpen my skills  
-- Preparing myself for freelancing & real-world projects  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Skills (Growing every day)
-- Python  
-- C++  
-- Data Structures & Algorithms  
-- Git & GitHub  
+## 🚀 About Me
+- 🎓 AI & Data Science student  
+- 🧠 Passionate about **Artificial Intelligence & Data Analysis**  
+- 💻 Strong interest in **Python, Problem Solving & Automation**  
+- 🔥 Building projects to move from **student → professional**  
+- 🎯 Goal: **AI Engineer & Freelancer**
 
 ---
 
-## 🎯 Goals
-- Become a professional AI & Data Engineer  
-- Build strong GitHub projects  
-- Turn coding into a real career 💪  
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
+</p>
 
 ---
 
-> "Learning never stops — every line of code makes me better."
+## 📚 Currently Learning
+- Machine Learning Fundamentals  
+- Data Analysis & Visualization  
+- Algorithms & Data Structures  
+- Git & Open Source Collaboration  
 
-⭐ Feel free to check my repositories and follow my journey!
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+> 💡 *“Code. Learn. Build. Repeat.”*
