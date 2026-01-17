@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Adel Dahrog</h1>
+<h1 align="center">Hi 👋, I'm Adel Dahroog</h1>
 <h3 align="center">AI & Data Science Student | Future AI Engineer</h3>
 
 <p align="center">
